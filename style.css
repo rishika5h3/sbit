@@ -1,0 +1,22 @@
+.sbit{
+    width: auto;
+    height: 630px;
+    border: solid red 2px;
+}
+#cname, #last{
+    height: 100px;
+    text-align: center;
+    background-color: aqua;
+    font-size: 50px;
+    margin: 20px;
+}
+#navigation{
+    height: 30px;
+    background-color: aquamarine;
+    margin: 20px;
+}
+#content{
+    height: 320px;
+    margin: 20px;
+
+}
